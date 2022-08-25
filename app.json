@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "nft-app",
+    "name": "NFTApp",
     "slug": "nft-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.richyjones.nftapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
